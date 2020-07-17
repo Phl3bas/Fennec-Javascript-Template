@@ -1,0 +1,17 @@
+{
+  "name": "fennec-javascript-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FennecJS"
+  ],
+  "author": "",
+  "license": "ISC"
+}
